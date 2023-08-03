@@ -78,6 +78,9 @@
 * [nginx Reverse Proxy](webspaces/nginx-reverse-proxy.md)
 * [MediaWiki installieren](webspaces/mediawiki-installieren.md)
 
+## Windows- Server
+* [Speicherplatz Erweitern](windows-server/speicherplatz-erweiterung.md)
+
 ## Docker
 * [Docker Traefik Proxy](docker/docker-traefik-proxy.md)
 * [Docker installation](docker/docker-installation.md)
