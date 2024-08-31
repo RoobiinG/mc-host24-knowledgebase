@@ -7,14 +7,21 @@
 
 ## Rootserver
 * [Linux Grundlagen](rootserver/linux-grundlagen.md)
+* [VNC Konsole Server Neustart](rootserver/server-not-aus.md)
 * [SSH Grundlagen](rootserver/ssh-grundlagen.md)
 * [Mit (S)FTP auf Rootserver verbinden](rootserver/sftp-verbinden.md)
 * [Screen](rootserver/screen.md)
-* [PhpMyAdmin Installation](rootserver/phpmyadmin-installation.md)
+* [PhpMyAdmin 8.2 Installation](rootserver/phpmyadmin-PHP-8-installation.md)
+* [PhpMyAdmin 7.4 Installation](rootserver/phpmyadmin-PHP-7-installation.md)
 * [SSL Zertifikat Installation](rootserver/ssl-zertifikat-erstellen.md)
 * [Nextcloud installation](rootserver/nextcloud-installation.md)
-* [Java8 installation](rootserver/java8-setup.md)
+* [Java 8 installation](rootserver/java-8-setup.md)
+* [Java 11 installation](rootserver/java-11-setup.md)
+* [Java 17 installation](rootserver/java-17-setup.md)
+* [FiveM Server einrichten](rootserver/fivem-server-setup.md)
+* [FiveM Server auf Ubuntu installieren](rootserver/fivem-server-installation-linux.md)
 * [Teamspeak³ Server](rootserver/teamspeak3-server.md)
+* [Sinusbot Installer](rootserver/sinusbot-install.md)
 * [Minecraft auto Start](rootserver/minecraft-auto-start.md)
 * [Minecraft Server auf Debian 11 installieren](rootserver/minecraft-server-debian-11-installieren.md)
 * [Minecraft Server mit unterschiedlichen Java Versionen starten](rootserver/bestimmte-java-version.md)
@@ -24,6 +31,7 @@
 * [MongoDB installieren](rootserver/mongodb-installieren.md)
 * [Nginx Proxy Manager installieren](rootserver/nginx-proxy-manager-installation.md)
 * [nginx installieren](rootserver/nginx-installieren.md)
+* [Fail2ban Installieren](rootserver/fail2ban-installieren.md )
 
 ## Rootcp
 * [Minecraft Version wechseln](rootcp/minecraft-version-wechseln.md)
@@ -41,6 +49,7 @@
 
 ### Minecraft-Server
 * [Allgemeine Informationen](minecraft-server/allgemeine-informationen.md)
+* [Server-Icon benutzen](minecraft-server/server-icon.md)
 * [Versionswechsel](minecraft-server/version-wechseln.md)
 * [Modpack installieren](minecraft-server/modpacks-installieren.md)
 * [Eigene Jar Datei verwenden](minecraft-server/eigene-server-jar.md)
@@ -58,6 +67,7 @@
 * [Mods auf Fabric installieren](minecraft-server/mods-installieren-fabric.md)
 * [Mods und Plugins zusammen verwenden](minecraft-server/mods-und-plugins.md)
 * [Bluemap installieren](minecraft-server/3d-weltkarte.md)
+* [FastAsyncWorldEdit Installation](FastAsyncWorldEdit-Installation.md)
 
 
 ### Landwirtschafts-Simulator 22
